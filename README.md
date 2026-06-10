@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 👋 Hi, I'm Divya
 
 🎓 Student at Malla Reddy University  
