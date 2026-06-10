@@ -1,15 +1,14 @@
+## 💫 About Me:
 
-# 👋 Hi, I'm Divya
+Hi, I'm **Gunti Divya** 👋  
+I enjoy learning **Data Analytics** and building simple software applications.  
+Currently learning **Python, SQL, Power BI, React.js, and Data Analysis**.  
+Actively improving my skills and looking for opportunities in **Data Analytics and Software Development**.
 
-🎓 Student at Malla Reddy University  
-📊 Aspiring Data Analyst  
-💻 Learning Python, SQL, Power BI 
-🌱 Currently improving coding skills  
-📫 Reach me: sagardivya7008@gmail.com
+## 🌐 Socials:
 
-## 🌐 Socials
-[LinkedIn](https://www.linkedin.com/in/gunti-divya-8378a9335/)
-[GitHub](https://github.com/gunti-divya123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR-LINKEDIN-LINK)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
