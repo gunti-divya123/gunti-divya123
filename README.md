@@ -2,7 +2,7 @@
 
 Hi, I'm **Gunti Divya** 👋  
 I enjoy learning **Data Analytics** and building simple software applications.  
-Currently learning **Python, SQL, Power BI, React.js, and Data Analysis**.  
+Currently learning **Python, SQL, Power BI and Data Analysis**.  
 Actively improving my skills and looking for opportunities in **Data Analytics and Software Development**.
 
 ## 🌐 Socials:
