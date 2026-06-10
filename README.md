@@ -5,7 +5,7 @@
 📊 Aspiring Data Analyst  
 💻 Learning Python, SQL, Power BI 
 🌱 Currently improving coding skills  
-📫 Reach me: yourmail@gmail.com
+📫 Reach me: sagardivya7008@gmail.com
 
 ## 🌐 Socials
 [LinkedIn](https://www.linkedin.com/in/gunti-divya-8378a9335/)
