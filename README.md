@@ -1,9 +1,9 @@
 ## 💫 About Me:
 
-Hi, I'm **Gunti Divya** 👋  
-I enjoy learning **Data Analytics** and building simple software applications.  
-Currently learning **Python, SQL, Power BI and Data Analysis**.  
-Actively improving my skills and looking for opportunities in **Data Analytics and Software Development**.
+Hi, I'm **Gunti Divya**
+I'm a **Data Science student** passionate about software development and building real-world applications.  
+Currently working with **Python, SQL, Pandas, Power BI, HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, Git, and GitHub**.  
+Always learning new technologies, building practical projects, and improving my problem-solving and development skills.
 
 ## 🌐 Socials:
 
@@ -12,10 +12,11 @@ Actively improving my skills and looking for opportunities in **Data Analytics a
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagardivya7008@gmail.com)
 
 ## 💻 Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Sql](https://img.shields.io/badge/SQL-6F42C1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=gunti-divya123&show_icons=true&theme=radical)
