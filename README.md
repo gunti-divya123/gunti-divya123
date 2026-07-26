@@ -19,9 +19,11 @@ Always learning new technologies, building practical projects, and improving my 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=gunti-divya123&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunti-divya123&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gunti-divya123&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunti-divya123&layout=compact&theme=radical" height="170"/>
+</p>
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gunti-divya123&theme=radical)
