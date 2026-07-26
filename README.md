@@ -4,9 +4,9 @@ Hi, I'm **Gunti Divya**.
 
 I'm a **Data Science student** passionate about software development and building real-world applications.
 
-Currently working with **Python, SQL, React, and Node.js**.
+Currently working with **Python, SQL, Pandas, Power BI, HTML, CSS, JavaScript, React, Node.js, Git, and GitHub**.
 
-Always learning new technologies, building practical projects, and improving my problem-solving and development skills.
+I enjoy learning new technologies, building practical projects, and continuously improving my problem-solving and development skills.
 
 ---
 
