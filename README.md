@@ -26,12 +26,12 @@ Always learning new technologies, building practical projects, and improving my 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunti-divya123&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunti-divya123&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunti-divya123&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gunti-divya123&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunti-divya123&theme=github_dark)
 
 ---
 
