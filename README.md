@@ -37,4 +37,4 @@ I enjoy learning new technologies, building practical projects, and continuously
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gunti-divya123&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gunti-divya123)
